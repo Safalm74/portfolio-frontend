@@ -32,4 +32,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: safarajmanandhar/question-pro-grocery-booking-api
+          tags: safarajmanandhar/portfolio-frontend
